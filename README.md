@@ -25,4 +25,4 @@ Change all placeholders at the `config.json` file:
 After that, run `node index.js` to start your bot.
 ## Links
 - [Discord](https://discord.gg/3dBEyFjDtv)
-- [Website](https://auroraradio.ml
+- [Website](https://auroraradio.ml)
